@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<root>
+    <dir id="compdriv" slot="Computer Drivers">
+        <dir id="brother" slot="Brother Printers">
+        </dir>
+        <dir id="canon" slot="Canon Printers">
+        </dir>
+        <dir id="epson" slot="Epson Printers">
+        </dir>
+        <dir id="xeror" slot="Fuji Xeror Printers">
+        </dir>
+        <dir id="hp" slot="Hewlet Parkage Printers">
+        </dir>
+        <dir id="ricoh" slot="Ricoh Printers">
+        </dir>
+        <dir id="samsung" slot="Samsung Printers">
+        </dir>
+    </dir>
+    <dir id="softback" slot="Software Backup">
+        <dir id="archive" slot="Archive">
+            <zip slot="7Zip" class="d01.winapp" id="2.7m">https://drive.google.com/file/d/1RZ1L97lDM51oB-e5cH27Z7yrhru4KL-E/view?usp=share_link</zip>
+            <rar slot="Google Drive" class="d01.winapp" id="324.8m">https://drive.google.com/file/d/1ErfNVkH7RINkkROyQI4U5G3IEJR_nRgH/view?usp=share_link</rar>
+            <rar slot="PowerISO" class="d01.winapp" id="8.8m">https://drive.google.com/file/d/16yBDaQTwSP03fxYA_wjT1swM-Shf1Kvi/view?usp=share_link</rar>
+            <rar slot="UltraISO" class="d01.winapp" id="4.5m">https://drive.google.com/file/d/1bzty7k-BBB7ZxiWbY5nzGEZz3CQx7gDg/view?usp=share_link</rar>
+            <zip slot="WinRAR" class="d01.winapp" id="6.1m">https://drive.google.com/file/d/1ZpiFv9wvglA-0_6YuuJ8j0UexcrA_Ms3/view?usp=share_link</zip>
+            <rar slot="WinZIP" class="d01.winapp" id="91.2m">https://drive.google.com/file/d/1qNW-cqWvL16bltM4BBOKf5tFVHDJQxmw/view?usp=share_link</rar>
+        </dir>
+        <dir id="browser" slot="Browser">
+            <rar slot="Chrome Offline 64bit" class="d01.winapp" id="79.3m">https://drive.google.com/file/d/16EXMX6A1wZ283zSyJjPipyHJ2fLfDqir/view?usp=share_link</rar>
+            <rar slot="Chrome Offline 32bit" class="d01.winapp" id="76.8m">https://drive.google.com/file/d/1K6DABTaaWFBNDPyJYQyZFpxS4SHE4ibL/view?usp=share_link</rar>
+            <rar slot="Coc Coc Offline English" class="d01.winapp" id="92.6m">https://drive.google.com/file/d/1KtkD21rczl73tiv_ATQyxoU14emQ6Rhk/view?usp=share_link</rar>
+            <rar slot="Coc Coc Offline Vietnamese" class="d01.winapp" id="92.6m">https://drive.google.com/file/d/1oc-LueIxqczSZn4uI0xPh1-N0EOLoXPi/view?usp=share_link</rar>
+            <rar slot="Firefox English 64bit" class="d01.winapp" id="55.7m">https://drive.google.com/file/d/129NXhC_ep5alEUe3CY6_Wurt-fKFMAFw/view?usp=share_link</rar>
+            <rar slot="Firefox English 32bit" class="d01.winapp" id="54.4m">https://drive.google.com/file/d/1LFTWav0JyBbKfcx4YApgwLt7Uyy11HyN/view?usp=share_link</rar>
+            <rar slot="Firefox Vietnamese 64bit" class="d01.winapp" id="56.1m">https://drive.google.com/file/d/1dk8XRXJ1hLIKMS2Mr6ZvanYHHG9IcV-4/view?usp=share_link</rar>
+            <rar slot="Firefox Vietnamese 32bit" class="d01.winapp" id="54.8m">https://drive.google.com/file/d/11lVoF2NSpUn_vjKrIEr_w_shCE1A6ryD/view?usp=share_link</rar>
+        </dir>
+        <dir id="communi" slot="Communication">
+            <rar slot="Skype 8" class="d01.winapp" id="84.7m">https://drive.google.com/file/d/1qneYEcUeaG62sub-ahPW0wqvJQ5wRDnJ/view?usp=share_link</rar>
+            <rar slot="Teamviewer 15" class="d01.winapp" id="87.0m">https://drive.google.com/file/d/1r00umFsRAbHYbf09AC4EiIC7Jk7tTymL/view?usp=share_link</rar>
+            <rar slot="Ultraviewer 6.4" class="d01.winapp" id="3.4m">https://drive.google.com/file/d/1FDqd4di36YqBC_ty5-Vjrii84e2nYb1L/view?usp=share_link</rar>
+        </dir>
+        <dir id="graphics" slot="Graphics">
+            <dir id="adobe" slot="Adobe Applications">
+                <rar slot="Adobe After Effects CC 2021" class="d01.graphic" id="1.3g">https://drive.google.com/file/d/1ux3pHU9CPDi_DOCRKGQj29WJ2yI31rGS/view?usp=share_link</rar>
+                <rar slot="Adobe After Effects CS6" class="d01.graphic" id="980.1m">https://drive.google.com/file/d/199cm0chty1wGhUsMFdwS1hyVzHtMTb9O/view?usp=share_link</rar>
+                <rar slot="Adobe Audition CC 2020" class="d01.graphic" id="310.6m">https://drive.google.com/file/d/1hs62M2_CwbSuO3tlzUoYjEK1Ib2verC-/view?usp=share_link</rar>
+                <rar slot="Adobe Audition CS6" class="d01.graphic" id="232.2m">https://drive.google.com/file/d/123JcQjb-xMhm8yb43qEqcQw3my4yTkHc/view?usp=share_link</rar>
+                <rar slot="Adobe Illustrator CC 2021" class="d01.graphic" id="1.2g">https://drive.google.com/file/d/1T3Un3YfNPDldKE3kvGUmE3EuZeQcLrgJ/view?usp=share_link</rar>
+                <rar slot="Adobe Illustrator CS6" class="d01.graphic" id="1.8g">https://drive.google.com/file/d/1PQ206Fe09SEsyBd93HLdMoxMZvrySBvx/view?usp=share_link</rar>
+                <rar slot="Adobe Photoshop CC 2021" class="d01.graphic" id="1.6g">https://drive.google.com/file/d/1r2yC9rc8m3fGwhsaIaDun-SxOg3DbulH/view?usp=share_link</rar>
+                <rar slot="Adobe Photoshop CS6" class="d01.graphic" id="999.3m">https://drive.google.com/file/d/1jvZXqRIbm_vTsNeOWOremHbKTX4ACV1Y/view?usp=share_link</rar>
+                <rar slot="Adobe Premiere Pro CC 2021" class="d01.graphic" id="950.6m">https://drive.google.com/file/d/1iqZNoRRGwMpaQQgo0723So2D5f7otrXU/view?usp=share_link</rar>
+                <rar slot="Adobe Premiere Pro CS6" class="d01.graphic" id="1.1g">https://drive.google.com/file/d/1rPNE1o5jXwmbAd08eMPonJ8Cx0OmpM8F/view?usp=share_link</rar>
+            </dir>
+            <dir id="autodesk" slot="Autodesk Applications">
+                <rar slot="Autodesk AutoCAD 2010 64bit" class="d01.graphic" id="1.1g">https://drive.google.com/file/d/1tjLmcZXh2xyGuk_YG41hAckL6aDS0YZL/view?usp=share_link</rar>
+                <rar slot="Autodesk AutoCAD 2010 32bit" class="d01.graphic" id="946.2m">https://drive.google.com/file/d/1JekB2ESwKESD13SuJx9NKhOk50-0s9mh/view?usp=share_link</rar>
+                <rar slot="Autodesk AutoCAD 2020" class="d01.graphic" id="1.5g">https://drive.google.com/file/d/1_4YTgysRaDXQMW3U1ayT5Tr755SqfzVn/view?usp=share_link</rar>
+                <rar slot="Autodesk AutoCAD 2021" class="d01.graphic" id="1.6g">https://drive.google.com/file/d/1c5cTOJWvCi0os0yaZVY7mMG66tAmofmR/view?usp=share_link</rar>
+                <_7z slot="Autodesk 3Ds Max 2020" class="d02.graphic" id="5.4g">https://drive.google.com/file/d/1ybSpE1CB3iAB0CunwB92w09vwL8VIy7e/view?usp=share_link</_7z>
+                <_7z slot="Autodesk Inventor Pro 2021" class="d02.graphic" id="6.1">https://drive.google.com/file/d/1Ow_cpxkcJTkY2_jB1tyyXWL9Y0-indEA/view?usp=share_link</_7z>
+            </dir>
+            <dir id="corel" slot="Corel Applications">
+                <rar slot="CorelDRAW Graphics Suite X6" class="d02.graphic" id="542.4m">https://drive.google.com/file/d/1NPdqa7VQSXZUz1yz4baiq9JsyhBhItmK/view?usp=share_link</rar>
+                <rar slot="CorelDRAW Graphics Suite X8" class="d02.graphic" id="1.1g">https://drive.google.com/file/d/1Hts8nTEKDtIdhGpdF68LGnbZFmCIC2n6/view?usp=share_link</rar>
+                <rar slot="CorelDRAW Graphics Suite 2020" class="d02.graphic" id="948.5m">https://drive.google.com/file/d/1WdSxF-4lfx2w65k6PgDBiZ21rZZCUKm5/view?usp=share_link</rar>
+            </dir>
+        </dir>
+        <dir id="multimed" slot="Multimedia">
+        </dir>
+        <dir id="netfx" slot="NET Framework">
+        </dir>
+        <dir id="offices" slot="Offices">
+            <dir id="kingsoft" slot="Kingsoft">
+            </dir>
+            <dir id="libre" slot="Libre">
+            </dir>
+            <dir id="ms" slot="Microsoft">
+            </dir>
+            <dir id="pdfscan" slot="PDF and Scan">
+            </dir>
+        </dir>
+        <dir id="os" slot="Operation Systems">
+            <dir id="android" slot="Android">
+            </dir>
+            <dir id="macos" slot="macOS">
+            </dir>
+            <dir id="ubuntu" slot="Ubuntu">
+            </dir>
+            <dir id="windows" slot="Windows">
+            </dir>
+        </dir>
+        <dir id="winreg" slot="Windows Registry Editor">
+        </dir>
+    </dir>
+    <dir id="techdeve" slot="Technical and Development">
+        <dir id="crack" slot="Crack Tools">
+            <dir id="adobe" slot="Adobe Cracks">
+            </dir>
+            <dir id="autodesk" slot="Autodesk Cracks">
+            </dir>
+            <dir id="corel" slot="Corel Cracks">
+            </dir>
+            <dir id="ms" slot="Microsoft Cracks">
+            </dir>
+        </dir>
+        <dir id="develop" slot="Development Tools">
+            <dir id="electro" slot="Electronic Tools">
+            </dir>
+            <dir id="music" slot="Music Maker Tools">
+            </dir>
+            <dir id="winapp" slot="Windows Form Apps Development">
+            </dir>
+        </dir>
+        <dir id="server" slot="Server">
+            <dir id="wserver" slot="Windows Server">
+            </dir>
+        </dir>
+        <dir id="technic" slot="Technical Tools">
+        </dir>
+        <dir id="winpe" slot="Windows PE">
+        </dir>
+    </dir>
+</root>
