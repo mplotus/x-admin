@@ -5,6 +5,7 @@ body {
     min-height: 90vh;
     background-color: #1e1e1e;
     color: #e1e1e1;
+    overflow: hidden;
 }
 #dv_bg .bg_color {
     position: absolute;
@@ -105,4 +106,38 @@ body {
     font-style: italic;
     text-decoration: underline;
     cursor: pointer;
+    white-space: nowrap;
+}
+.circle {
+    position: absolute;
+    border: solid 1px white;
+    box-shadow: 0 0 50px white;
+    animation: stars 10s linear infinite;
+    animation-delay: calc(5s * var(--i));
+}
+@keyframes stars {
+    50% {
+        transform: scale(calc(1.1 * var(--i)));
+    }
+}
+.circle:nth-child(1) {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    top: calc(50% - 150px);
+    left: calc(50% - 180px); 
+}
+.circle:nth-child(2) {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    top: calc(50% + 50px);
+    left: calc(50% - 200px); 
+}
+.circle:nth-child(3) {
+    width: 180px;
+    height: 180px;
+    border-radius: 90px;
+    top: calc(50% - 100px);
+    left: calc(50% + 50px); 
 }
