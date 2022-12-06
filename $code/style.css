@@ -1,0 +1,108 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+    background-color: #1e1e1e;
+    color: #e1e1e1;
+}
+#dv_bg .bg_color {
+    position: absolute;
+    filter: blur(80px);
+}
+#dv_bg .bg_color:nth-child(1) {
+    width: 100px;
+    height: 100px;
+    top: 10%;
+    left: 10%;
+    background-color: #ffff80;
+    border-radius: 50px;
+}
+#dv_bg .bg_color:nth-child(2) {
+    width: 60px;
+    height: 60px;
+    top: 5%;
+    left: 40%;
+    background-color: #ffc080;
+    border-radius: 30px;
+}
+#dv_bg .bg_color:nth-child(3) {
+    width: 200px;
+    height: 200px;
+    top: 40%;
+    left: 30%;
+    background-color: #80ddff;
+    border-radius: 100px;
+}
+#dv_bg .bg_color:nth-child(4) {
+    width: 60px;
+    height: 60px;
+    top: 30%;
+    left: 80%;
+    background-color: #80ff80;
+    border-radius: 30px;
+}
+#dv_bg .bg_color:nth-child(5) {
+    width: 30px;
+    height: 30px;
+    top: 85%;
+    left: 70%;
+    background-color: #8080ff;
+    border-radius: 15px;
+}
+#dv_bg .bg_color:nth-child(6) {
+    width: 40px;
+    height: 40px;
+    top: 75%;
+    left: 20%;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+.login_form {
+    position: absolute;
+    user-select: none;
+    padding: 20px;
+    border: solid 1px white;
+    border-radius: 20px;
+    box-shadow: 0 0 50px white;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+#tx_pw {
+    font-size: 120%;
+    padding: 5px;
+    width: 97%;
+    background-color: rgba(255,255,255,0.35);
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+#tx_pw:focus {
+    border: 0px;
+    outline: solid 1px white;
+    box-shadow: 0 0 5px white;
+}
+#tx_pw::placeholder {
+    color: #cccccc;
+}
+#bt_pw {
+    margin-left: 20%;
+    padding: 5px;
+    width: 60%;
+    cursor: pointer;
+    font-size: 100%;
+    font-weight: bold;
+    background-color: rgba(255,255,255,0.35);
+    border: solid 1px white;
+    border-radius: 12px;
+    color: white;
+}
+#bt_pw:hover {
+    box-shadow: 0 0 5px white;
+}
+#fg_pw {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -4,8 +4,22 @@
         <title>Administrator Page</title>
         <meta name='viewport' content='width=device-width, initial-scale=1.0'>
         <script type='text/javascript' src='./$code/script.js'></script>
+        <link rel='stylesheet' href='./$code/style.css'>
     </head>
     <body onload='page_load()'>
-        <h1>ADMINISTRATOR PAGE - Hello World!</h1>
+        <div id='dv_bg'>
+            <div class='bg_color'></div>
+            <div class='bg_color'></div>
+            <div class='bg_color'></div>
+            <div class='bg_color'></div>
+            <div class='bg_color'></div>
+            <div class='bg_color'></div>
+        </div>
+        <div class='login_form'>
+            <h2>Sign in administrator</h2>
+            <p><input type='password' id='tx_pw' placeholder='Enter administrator password'></p>
+            <p><button id='bt_pw' onclick='pass_signin()'>SIGN IN</button></p>
+            <p>Forgot administrator password? <span id='fg_pw' onclick='forgot_pw()'>Click here</span></p>
+        </div>
     </body>
 </html>
