@@ -110,14 +110,14 @@ body {
 }
 .circle {
     position: absolute;
-    border: solid 1px white;
     box-shadow: 0 0 50px white;
+    background-color: black;
     animation: stars 10s linear infinite;
-    animation-delay: calc(5s * var(--i));
+    animation-delay: calc(1s * var(--i));
 }
 @keyframes stars {
     50% {
-        transform: scale(calc(1.1 * var(--i)));
+        transform: scale(calc(1.01 * var(--i)));
     }
 }
 .circle:nth-child(1) {
