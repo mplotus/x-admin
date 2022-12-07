@@ -68,8 +68,38 @@
             </dir>
         </dir>
         <dir id="multimed" slot="Multimedia">
+            <rar slot="5KPlayer" class="d01.winapp" id="115.9m">https://drive.google.com/file/d/19xuEozix-Z3QUk1jZlyyRudl2nCWYBOO/view?usp=share_link</rar>
+            <rar slot="Adobe Flash Player" class="d01.winapp" id="21.1m">https://drive.google.com/file/d/1H-gG69LPvjLfIj8zguvZ700153hmv-iL/view?usp=share_link</rar>
+            <rar slot="Format Factory" class="d01.winapp" id="110.4m">https://drive.google.com/file/d/11lm_M-69eyts8Ad-t1zK4ij2iiIABuMe/view?usp=share_link</rar>
+            <rar slot="GIMP" class="d01.winapp" id="249.2m">https://drive.google.com/file/d/1o9HEqpFkARfsptAejwARUqpnnyB53Xey/view?usp=share_link</rar>
+            <rar slot="GomPlayer" class="d01.winapp" id="26.1m">https://drive.google.com/file/d/14BBvhkvPMB-a1UYJjNokV9EGi55AEh5r/view?usp=share_link</rar>
+            <rar slot="IcoFX" class="d01.winapp" id="14.5m">https://drive.google.com/file/d/1EpJ5yNIRSSUDFIXbKKnT2OgjbXlGxbTw/view?usp=share_link</rar>
+            <rar slot="IMobie HEIC Converter" class="d01.winapp" id="0.75m">https://drive.google.com/file/d/1HX1vX4JngG4UyIl3nE2GFqoB5vHKBVNg/view?usp=share_link</rar>
+            <rar slot="Inkscape 1.1 64bit" class="d01.winapp" id="128.7m">https://drive.google.com/file/d/1FsjDs7O0VNCxiXB3tsXE4RUllgVd3ySw/view?usp=share_link</rar>
+            <rar slot="Inkscape 1.1 32bit" class="d01.winapp" id="128.6m">https://drive.google.com/file/d/1BjgpCGQtMcLTkK7Zn3YFO3b-87Ayt6lL/view?usp=share_link</rar>
+            <rar slot="KMPlayer 64bit" class="d01.winapp" id="51.0m">https://drive.google.com/file/d/1ceeFfcZGyHmsQ6H7V9S4eKWF1dLOhtJg/view?usp=share_link</rar>
+            <rar slot="KMPlayer 32bit" class="d01.winapp" id="49.3m">https://drive.google.com/file/d/1bqTTUZ6_h-7jb6sfY0potBiEhewk9qS5/view?usp=share_link</rar>
+            <rar slot="Kodi 64bit" class="d01.winapp" id="90.4m">https://drive.google.com/file/d/14rueZmpFCPmmkJRLhxmf-AuWAH_bET98/view?usp=share_link</rar>
+            <rar slot="Kodi 32bit" class="d01.winapp" id="69.6m">https://drive.google.com/file/d/1jM1y2nRbwRjOVfiIoZjJHxZyHacAKe8q/view?usp=share_link</rar>
+            <rar slot="Real Player" class="d01.winapp" id="0.4m">https://drive.google.com/file/d/1WilfWf3p5nYm5mcaE8G9vs0_c4YPvOoh/view?usp=share_link</rar>
+            <rar slot="Universal Maps Downloader" class="d01.winapp" id="9.2m">https://drive.google.com/file/d/1qgD5tVornd7ipL6sBBFD2i_GApPueuL8/view?usp=share_link</rar>
+            <rar slot="VLC 64bit" class="d01.winapp" id="55.7m">https://drive.google.com/file/d/1b1HQYnmWljVNFrnJLYX1gfIfJMhvcKp6/view?usp=share_link</rar>
+            <rar slot="VLC 32bit" class="d01.winapp" id="54.1m">https://drive.google.com/file/d/1GKvMSPyINjEwXM89k8CLfyTWe4CH9MO2/view?usp=share_link</rar>
+            <rar slot="Winamp" class="d01.winapp" id="8.1m">https://drive.google.com/file/d/1vIuOQwojXLuCMHp92FUytLZsRM4k43Fb/view?usp=share_link</rar>
         </dir>
         <dir id="netfx" slot="NET Framework">
+            <rar slot="Net Framework 3.5" class="d01.winapp" id="231.7m">https://drive.google.com/file/d/15ivtO-V6OEiuhzulXldbojcc5zxqKQFK/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.0" class="d01.winapp" id="50.4m">https://drive.google.com/file/d/1dCg0YFdpPCEqM30OLLQqotC8mGAV74QE/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.5.1" class="d01.winapp" id="70.1m">https://drive.google.com/file/d/1pkdYz6LZv6rhCJ2JROhhqdWmBOaiJZMn/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.5.2" class="d01.winapp" id="70.0m">https://drive.google.com/file/d/1g1sE-MkXh-UfGaSJItjJppBveqSk6342/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.6.0" class="d01.winapp" id="65.4m">https://drive.google.com/file/d/1Gk19elbrsm7uzBYvNssLGp8GpHnDiH8q/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.6.1" class="d01.winapp" id="67.7m">https://drive.google.com/file/d/1_Zi-Uk9NpT6NxU1riq6x5fDn2KwFLFY-/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.6.2" class="d01.winapp" id="62.0m">https://drive.google.com/file/d/12c20AEyOkqbEI0Gvj0LpzjOuH3uV6k3F/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.7.0" class="d01.winapp" id="61.6m">https://drive.google.com/file/d/1MaJUgS4LpoTbnQE7fN8ExmdoEH6-m8Dh/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.7.1" class="d01.winapp" id="68.7m">https://drive.google.com/file/d/1v_kTaWQI1XFA6ZOVlGfIzWhBiBOtE8He/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.7.2" class="d01.winapp" id="84.0m">https://drive.google.com/file/d/19n1QrcwFFaiMJQL1kMr1PNJW9UUBRRYY/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.8" class="d01.winapp" id="121.4m">https://drive.google.com/file/d/1TDNRu0UZVmeViY5nM32ke8M1fzbpm8gk/view?usp=share_link</rar>
+            <rar slot="Net Framework 4.8 Windows 8.1" class="d01.winapp" id="26.7m">https://drive.google.com/file/d/1bcZ5B-Pm5v1tuDAD5SsbyQKzdV0CBqgU/view?usp=share_link</rar>
         </dir>
         <dir id="offices" slot="Offices">
             <dir id="kingsoft" slot="Kingsoft">
@@ -77,8 +107,18 @@
             <dir id="libre" slot="Libre">
             </dir>
             <dir id="ms" slot="Microsoft">
+                <iso slot="Microsoft Office 2010 Proplus SP2" class="d01.office" id="1.9g">https://drive.google.com/file/d/13Ruf6Xy3J5K1qlhe-oBOBhom68nIcXbM/view?usp=share_link</iso>
+                <iso slot="Microsoft Office 2013 Proplus" class="d01.office" id="758m">https://drive.google.com/file/d/11YXjlbHdKe8Y8j2kTdFCWyjhcyalcbP_/view?usp=share_link</iso>
+                <iso slot="Microsoft Office 2016 Proplus" class="d01.office" id="1.8g">https://drive.google.com/file/d/1LRJ21-ivB5PHTIRpCS1Q972VS_rPOnQO/view?usp=share_link</iso>
+                <iso slot="Microsoft Office 2019 Proplus Volume" class="d01.office" id="1.6g">https://drive.google.com/file/d/18Y-05kATPlQoDJcle0yL2VxkQm1jNobv/view?usp=share_link</iso>
             </dir>
             <dir id="pdfscan" slot="PDF and Scan">
+                <rar slot="Adobe Reader" class="d01.office" id="75.7m">https://drive.google.com/file/d/1KQXO1d9kv48mK7VfJBgarO0KK5VhteV2/view?usp=share_link</rar>
+                <rar slot="Foxit Reader" class="d01.office" id="164.3m">https://drive.google.com/file/d/15VGyAh-mCCUI7IhnGsALil5Wf8u9UzKq/view?usp=share_link</rar>
+                <rar slot="NAPS2 Portable" class="d01.office" id="2.2m">https://drive.google.com/file/d/1oL5WyKBBcjKOiQ88lfxaGCezNZvHUegv/view?usp=share_link</rar>
+                <rar slot="NAPS2 Windows" class="d01.office" id="2.4m">https://drive.google.com/file/d/1FC155wkVVkJcrKr8C2ZrUEsRCoJALky2/view?usp=share_link</rar>
+                <rar slot="Nitro Pro Enterprise 64bit" class="d01.office" id="188.5m">https://drive.google.com/file/d/1od2fAqsht_mo99XYAEzFMXnE-xPSQjEa/view?usp=share_link</rar>
+                <rar slot="Nitro Pro Enterprise 32bit" class="d01.office" id="156.7m">https://drive.google.com/file/d/1snCef4xcq-yK3mq6FxxKeRHyC2XnDNod/view?usp=share_link</rar>
             </dir>
         </dir>
         <dir id="os" slot="Operation Systems">
@@ -87,11 +127,29 @@
             <dir id="macos" slot="macOS">
             </dir>
             <dir id="ubuntu" slot="Ubuntu">
+                <iso slot="Ubuntu 15.10 - Wily Werewolf" class="d02.clientos" id="1.1g">https://drive.google.com/file/d/1MYayYjw2jKl0f8AsmoOIoYFZrN6aBCRx/view?usp=share_link</iso>
+                <iso slot="Ubuntu 21.10 - Impish Indri" class="d02.clientos" id="2.9g">https://drive.google.com/file/d/1rtSH_3HA2D4VusbNVvVB0AFMUQCSUSew/view?usp=share_link</iso>
+                <iso slot="Ubuntu MATE 22.04 - Jammy Jellyfish" class="d03.clientos" id="2.5g">https://drive.google.com/file/d/1vV1JY6lA3G3FthVot1Tes3WVAzhlFSHt/view?usp=share_link</iso>
             </dir>
             <dir id="windows" slot="Windows">
+                <iso slot="Windows 7 All In One 32bit" class="d01.clientos" id="2.4g">https://drive.google.com/file/d/1RCJHJmkxLvzUSpaTZR8icJF_7I631zA_/view?usp=share_link</iso>
+                <iso slot="Windows 7 All In One 64bit" class="d01.clientos" id="3.2g">https://drive.google.com/file/d/1xUZeQtwA1J57GM008uaDMjsJRSIu_Tlv/view?usp=share_link</iso>
+                <iso slot="Windows 8.1 All In One 32-64bit" class="d01.clientos" id="4.4g">https://drive.google.com/file/d/1Omm3oncKaXinsBTBKojJcoUs7aFe0itG/view?usp=share_link</iso>
+                <iso slot="Windows 10 1909 Home Pro 32bit" class="d01.clientos" id="3.5g">https://drive.google.com/file/d/1RK1Fw3pYq9gv2Ae2ntc1R9kOgUjSDLsa/view?usp=share_link</iso>
+                <iso slot="Windows 10 1909 Home Pro 64bit" class="d02.clientos" id="5.0g">https://drive.google.com/file/d/1pRUj6-jd8Y4vK1-Vv7zmZ2xuCzHPDpHZ/view?usp=share_link</iso>
+                <iso slot="Windows 11 64bit" class="d02.clientos" id="5.2g">https://drive.google.com/file/d/151Pbv76ls_YF8EkrBPKTdU1iPakrbCTy/view?usp=share_link</iso>
             </dir>
         </dir>
         <dir id="winreg" slot="Windows Registry Editor">
+            <rar slot="Add remove 3D Object Folder Windows 10" class="d01.winapp" id="0.01m">https://drive.google.com/file/d/1OqXe69r4E1dWV5pJh3tidYEgeHop7N1d/view?usp=share_link</rar>
+            <rar slot="Add remove all folders exclude 3D Object Windows 10" class="d01.winapp" id="0.01m">https://drive.google.com/file/d/1MfwKSMoYGHli6WgYdiY0lkwitSVTliIL/view?usp=share_link</rar>
+            <rar slot="Add remove Desktop Folder Windows 10" class="d01.winapp" id="0.01m">https://drive.google.com/file/d/15LPlbtDNmZjmmI213aHUdBx89ZEoVsuP/view?usp=share_link</rar>
+            <rar slot="Add remove Documents Folder Windows 10" class="d01.winapp" id="0.01m">https://drive.google.com/file/d/1esdiAWikwAJo80hQW41fdnSJF451_3UQ/view?usp=share_link</rar>
+            <rar slot="Add remove Download Folder Windows 10" class="d01.winapp" id="0.01m">https://drive.google.com/file/d/1yvLrvhrS8UkPjWx-O8HqV628FnnFmTcM/view?usp=share_link</rar>
+            <rar slot="Add remove Music Folder Windows 10" class="d01.winapp" id="0.01m">https://drive.google.com/file/d/1aDOKoJMf9gbGjwUgGFhPyLy5H0Fzb2Yd/view?usp=share_link</rar>
+            <rar slot="Add remove Pictures Folder Windows 10" class="d01.winapp" id="0.01m">https://drive.google.com/file/d/1TYXa0CGQ7Cai168_7nU9emnr1HESIdqH/view?usp=share_link</rar>
+            <rar slot="Add remove Videos Folder Windows 10" class="d01.winapp" id="0.01m">https://drive.google.com/file/d/1DUlUbUi1srsmKuI7t28O67K_9lpGRnbv/view?usp=share_link</rar>
+            <rar slot="Restore Windows Photo Viewer Windows 10" class="d01.winapp" id="0.01m">https://drive.google.com/file/d/1chx5QPcjbKJEPiXhhFE7dqwX_D3mSlHI/view?usp=share_link</rar>
         </dir>
     </dir>
     <dir id="techdeve" slot="Technical and Development">
@@ -115,11 +173,38 @@
         </dir>
         <dir id="server" slot="Server">
             <dir id="wserver" slot="Windows Server">
+                <iso slot="Windows Server 2003 SP2 R2 Datacenter" class="d02.server" id="773m">https://drive.google.com/file/d/1-w4h5ybL1QOgoTRfUyr83NnyhAt56S-i/view?usp=sharing</iso>
+                <iso slot="Windows Server 2008" class="d01.server" id="2.9g">https://drive.google.com/file/d/1WoPWKBfQiqZSxGTGylNQv2Z2szZAHAqQ/view?usp=share_link</iso>
+                <iso slot="Windows Server 2012" class="d02.server" id="6.2g">https://drive.google.com/file/d/1Q3ZJuUXZCaPmvp_FW6gLdsLco16Zu4u_/view?usp=share_link</iso>
+                <iso slot="Windows Server 2016" class="d01.server" id="7.0g">https://drive.google.com/file/d/1nnUR3ZMsKBod16RBkDeCqUsPZxiOgVyc/view?usp=share_link</iso>
+                <iso slot="Windows Server 2019" class="d01.server" id="4.5g">https://drive.google.com/file/d/1VAhIM1_kmPL3UrCeIixHuN1261nVkw7f/view?usp=share_link</iso>
             </dir>
         </dir>
         <dir id="technic" slot="Technical Tools">
+            <!--<rar slot="AIO Boot" class="d01.devtek" id="">https://drive.google.com/file/d/1t18Dr5Tu8D4PZ_OT4KQ-StMRoV3dNwv_/view?usp=share_link</rar>-->
+            <rar slot="dos app network boot" class="d01.devtek" id="13m">https://drive.google.com/file/d/12c-UaVkKMp54T2_GSHRWCLQdfKx62qGJ/view?usp=share_link</rar>
+            <rar slot="Easy BCD 2.4 Portable" class="d01.devtek" id="2m">https://drive.google.com/file/d/1omjsu_CIIxsU-kO-OfOCpjYy5iXIFQnJ/view?usp=share_link</rar>
+            <rar slot="GImageX" class="d01.devtek" id="0.3m">https://drive.google.com/file/d/1CCDhbGhreaBS2n_n2173J-vUYjgXJkP2/view?usp=share_link</rar>
+            <rar slot="NTFS Drive Protection" class="d01.devtek" id="0.9m">https://drive.google.com/file/d/1ijEOq9IWltbkYgASPXbjEQSLAla7S6GQ/view?usp=share_link</rar>
+            <!--<rar slot="Onekey Ghost" class="d01.devtek" id="">https://drive.google.com/file/d/1FA0PciNb7PTSRv6i_BrG3tCy_P851SYb/view?usp=share_link</rar>-->
+            <rar slot="Python" class="d01.devtek" id="51m">https://drive.google.com/file/d/1oB-1ZAv0d9-XSIpWDMHXaK0Z-Ja2Bs6D/view?usp=share_link</rar>
+            <rar slot="Rufus 3.14" class="d01.devtek" id="1m">https://drive.google.com/file/d/1C73dfHXHfprsMlJLyB65pQIChgQry8h4/view?usp=share_link</rar>
+            <rar slot="qres" class="d01.devtek" id="0.4m">https://drive.google.com/file/d/1hDPGSi983ubW1b07XYT8f0bU0dqR8Eby/view?usp=share_link</rar>
+            <rar slot="Shortcut CMD" class="d01.devtek" id="0.1m">https://drive.google.com/file/d/1paIkj7MhhzRPTZ_TErYDN2aOh_PVk6-h/view?usp=share_link</rar>
+            <rar slot="Syspin CMD" class="d01.devtek" id="0.5m">https://drive.google.com/file/d/13FQ0PXblF2qvMmDX4ZvETYVJxOmxkSsY/view?usp=share_link</rar>
+            <rar slot="Unlocker Master (VMWare macOS)" class="d01.devtek" id="7m">https://drive.google.com/file/d/1dkVCNlWODBYS3LybcwkvESYxXLNifN5U/view?usp=share_link</rar>
+            <rar slot="Plpbt 5 (VMWare USB Boot)" class="d01.devtek" id="0.7m">https://drive.google.com/file/d/1a7MHOrhoVfS9m6ge2sRYVH6lffYIjLEF/view?usp=share_link</rar>
+            <rar slot="VMWare Workstation 14" class="d01.devtek" id="365m">https://drive.google.com/file/d/1cLcOPXJXFZeQD3ZMF_Rf2gNWwnR1aJzl/view?usp=share_link</rar>
+            <rar slot="VMWare Workstation 16" class="d01.devtek" id="503m">https://drive.google.com/file/d/1t59MP-YM3CkAGhJr4oGImGYPQPwezSD3/view?usp=share_link</rar>
+            <rar slot="WinAIO Maker Pro 1.3" class="d01.devtek" id="3m">https://drive.google.com/file/d/1K_vjF5AQ89nxIY6i3JFEEnHWyDF5Anth/view?usp=share_link</rar>
+            <rar slot="Windows Automated Installation Kit" class="d01.devtek" id="3.9g">https://drive.google.com/file/d/1cSG3-gfGJPjrie3iA6KU-4Sou-4XQ7AU/view?usp=share_link</rar>
+            <rar slot="WinSetup From USB 1.9" class="d01.devtek" id="30m">https://drive.google.com/file/d/1jsOF3Kzp4jtBsI-5ALOLvYVf84wGe8Wm/view?usp=share_link</rar>
         </dir>
         <dir id="winpe" slot="Windows PE">
+            <rar slot="DLC Boot 2019 3.6" class="d01.devtek" id="3.1g">https://drive.google.com/file/d/1vj5I2pVJklJfMfM9Ysrq789dHSkJbI8C/view?usp=share_link</rar>
+            <iso slot="Hiren's Boot" class="d01.devtek" id="2.9g">https://drive.google.com/file/d/1tOSPBuDcR1RibxDrMo2nijwze4wb5p0e/view?usp=share_link</iso>
+            <iso slot="HKBoot 2020" class="d01.devtek" id="1.4g">https://drive.google.com/file/d/1fHxvBmMx8ztion9yva7RgRrOI8qxV420/view?usp=share_link</iso>
+            <iso slot="Windows 10 PE 2017" class="d01.devtek" id="1.5g">https://drive.google.com/file/d/19c06v1kbjltCfPIYV95Lr6WAqI1Id9t9/view?usp=share_link</iso>
         </dir>
     </dir>
 </root>
