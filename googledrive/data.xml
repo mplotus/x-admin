@@ -181,12 +181,12 @@
             </dir>
         </dir>
         <dir id="technic" slot="Technical Tools">
-            <!--<rar slot="AIO Boot" class="d01.devtek" id="">https://drive.google.com/file/d/1t18Dr5Tu8D4PZ_OT4KQ-StMRoV3dNwv_/view?usp=share_link</rar>-->
+            <!--<rar slot="AIO Boot" class="d01.devtek" id=""></rar>-->
             <rar slot="dos app network boot" class="d01.devtek" id="13m">https://drive.google.com/file/d/12c-UaVkKMp54T2_GSHRWCLQdfKx62qGJ/view?usp=share_link</rar>
             <rar slot="Easy BCD 2.4 Portable" class="d01.devtek" id="2m">https://drive.google.com/file/d/1omjsu_CIIxsU-kO-OfOCpjYy5iXIFQnJ/view?usp=share_link</rar>
             <rar slot="GImageX" class="d01.devtek" id="0.3m">https://drive.google.com/file/d/1CCDhbGhreaBS2n_n2173J-vUYjgXJkP2/view?usp=share_link</rar>
             <rar slot="NTFS Drive Protection" class="d01.devtek" id="0.9m">https://drive.google.com/file/d/1ijEOq9IWltbkYgASPXbjEQSLAla7S6GQ/view?usp=share_link</rar>
-            <!--<rar slot="Onekey Ghost" class="d01.devtek" id="">https://drive.google.com/file/d/1FA0PciNb7PTSRv6i_BrG3tCy_P851SYb/view?usp=share_link</rar>-->
+            <!--<rar slot="Onekey Ghost" class="d01.devtek" id=""></rar>-->
             <rar slot="Python" class="d01.devtek" id="51m">https://drive.google.com/file/d/1oB-1ZAv0d9-XSIpWDMHXaK0Z-Ja2Bs6D/view?usp=share_link</rar>
             <rar slot="Rufus 3.14" class="d01.devtek" id="1m">https://drive.google.com/file/d/1C73dfHXHfprsMlJLyB65pQIChgQry8h4/view?usp=share_link</rar>
             <rar slot="qres" class="d01.devtek" id="0.4m">https://drive.google.com/file/d/1hDPGSi983ubW1b07XYT8f0bU0dqR8Eby/view?usp=share_link</rar>

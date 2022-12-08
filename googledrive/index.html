@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Google Cloud Drive Manager</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+        <link rel='stylesheet' href='./style.css'>
+        <script type='text/javascript' src='./script.js'></script>
+    </head>
+    <body onload='page_load()'>
+        <h2 class='x-title'>GOOGLE CLOUD DRIVE MANAGER</h2>
+        <select id='x_accounts' onchange='account_change()'></select>
+        <p class="tbold titalic twhite t120">Code:
+            <input type='password' id='x_password' readonly>
+            <button id='x_showhide' onclick='show_pass()'>show</button>
+        </p>
+        <div id='x_info'>
+            <div class='tbold titalic twhite t120'>Usage:</div>
+            <div id='x_drive'>
+                <span id='x_usage'></span>
+                <span id='x_free'></span>
+            </div>
+        </div>
+    </body>
+</html>
