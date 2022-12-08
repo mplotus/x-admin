@@ -36,8 +36,16 @@ h2.x-title {
 }
 .tbold { font-weight: bold; }
 .titalic { font-style: italic; }
-.twhite { color: rgb(240,240,240); }
+.twhite {
+    color: rgb(240,240,240);
+    text-shadow: 0 0 10px white;
+}
 .t120 { font-size: 120%; }
+.centermargin {
+    margin-left: auto;
+    margin-right: auto;
+}
+.textcenter { text-align: center; }
 #x_password {
     font-size: 120%;
     background-color: rgba(240,240,240,0.2);
@@ -64,13 +72,28 @@ h2.x-title {
 }
 #x_info {
     display: grid;
-    grid-template-columns: 100px auto;
+    grid-template-columns: auto auto auto;
 }
 #x_drive {
     margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
     top: 0;
-    width: 250px;
+    width: 200px;
     height: 12px;
     border: solid 1px white;
     box-shadow: 0 0 10px white;
+    overflow: hidden;
+}
+#x_usage {
+    top: 0;
+    left: 0;
+    height: 12px;
+    margin: 0;
+    padding: 0;
+    width: 0px;
+    background-color: #a00000;
+    box-shadow: 0 0 10px #a00000;
+    transition: 0.5s ease;
 }

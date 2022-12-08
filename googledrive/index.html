@@ -9,16 +9,24 @@
     <body onload='page_load()'>
         <h2 class='x-title'>GOOGLE CLOUD DRIVE MANAGER</h2>
         <select id='x_accounts' onchange='account_change()'></select>
-        <p class="tbold titalic twhite t120">Code:
+        <p class="tbold titalic twhite t120" style="line-height: 2;">Code:
             <input type='password' id='x_password' readonly>
             <button id='x_showhide' onclick='show_pass()'>show</button>
         </p>
         <div id='x_info'>
-            <div class='tbold titalic twhite t120'>Usage:</div>
+            <div class='tbold titalic twhite t120' id='x_useinf'></div>
             <div id='x_drive'>
-                <span id='x_usage'></span>
-                <span id='x_free'></span>
+                <div id='x_usage'></div>
             </div>
+            <div class='tbold titalic twhite t120' id='x_freinf'></div>
         </div>
+        <p class="tbold titalic twhite t120">FILE LIST</p>
+        <table id='tb_filelist' class='twhite t120 centermargin'>
+            <tr>
+                <th class='textcenter'>File name</th>
+                <th class='textcenter'>Size</th>
+                <th class='textcenter'>Type</th>
+            </tr>
+        </table>
     </body>
 </html>
