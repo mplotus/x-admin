@@ -87,7 +87,7 @@ const selected_account = _account => {
         _trFile.appendChild(_tdType);
         _tbFiles.appendChild(_trFile);
     }
-    let _useGB = Math.floor(_sumSize / 1024 * 100) / 100; 
+    let _useGB = Math.floor(_sumSize / 1000 * 100) / 100; 
     let _freGB = Math.floor((15 - _useGB) * 100) / 100;
     document.getElementById('x_useinf').innerText = _useGB + 'GB';
     document.getElementById('x_freinf').innerText = _freGB + 'GB';
