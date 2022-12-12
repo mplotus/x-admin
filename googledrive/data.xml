@@ -193,10 +193,17 @@
         </dir>
         <dir id="develop" slot="Development Tools">
             <dir id="electro" slot="Electronic Tools">
+                <rar slot="Mikro C Pro for PIC" class="d02.devtek" id="45m">https://drive.google.com/file/d/1aLSjv2f1qKpr02_rI7X_Wf-t34i9VIjJ/view?usp=share_link</rar>
+                <rar slot="Proteus 8.9" class="d02.devtek" id="403.5m">https://drive.google.com/file/d/1dTn0EGn0bhme93XY9aKAxpJHqx_g7koz/view?usp=share_link</rar>
             </dir>
             <dir id="music" slot="Music Maker Tools">
+                <rar slot="FL Studio 20.7 Signature Bundle" class="d02.devtek" id="1.1g">https://drive.google.com/file/d/1foAxKpN9F0f2JN8OLXanVcCQEBB2myOc/view?usp=share_link</rar>
+                <rar slot="Nexus 2.2" class="d02.devtek" id="3.4g">https://drive.google.com/file/d/1khmM5iPsPu7hRR0QXAzz6IvNb69_FW-K/view?usp=share_link</rar>
+                <rar slot="WIDI 3.3" class="d02.devtek" id="3.1m">https://drive.google.com/file/d/18yON1jrtq5-EbkT0GnoCo37YJmh8ZfBr/view?usp=share_link</rar>
+                <iso slot="Toontrack EZDrumer 2.1.8" class="d02.devtek" id="192.1m">https://drive.google.com/file/d/1XdTaec5hpvoe5c3gXKr7euSpK8lTpEjG/view?usp=share_link</iso>
             </dir>
             <dir id="winapp" slot="Windows Form Apps Development">
+                <iso slot="Visual Studio 2013 RTM Pro" class="d02.devtek" id="3.0g">https://drive.google.com/file/d/1fWlbpKO_rB1bt_5sLdEp9X09LCyWSy4C/view?usp=share_link</iso>
             </dir>
         </dir>
         <dir id="server" slot="Server">
