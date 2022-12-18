@@ -217,15 +217,15 @@
         </dir>
         <dir id="technic" slot="Technical Tools">
             <dir id="diaginfo" slot="Diagnostic - Info">
-                <rar slot="AIDA 64bit" class="d02.devtek" id="6.6m">https://drive.google.com/file/d/1dO-RC_uDrwA1CZrHdXMxMTxM6jcOaB6D/view?usp=share_link</rar>
-                <rar slot="Battery Info View" class="d02.devtek" id="0.2m">https://drive.google.com/file/d/1vpm7uHclqBtImPmmDLbW_h0ZxqS-nF-a/view?usp=share_link</rar>
+                <rar slot="AIDA 64bit" class="d02.devtek" id="6.6m"></rar>
+                <rar slot="Battery Info View" class="d02.devtek" id="0.2m"></rar>
                 <rar slot="Battery Mon" class="d02.devtek" id="0.25m">https://drive.google.com/file/d/1wX7ztRnOBYiC-3MKGgh7V0GaTxUCIeB-/view?usp=share_link</rar>
                 <rar slot="Check Disk GUI" class="d02.devtek" id="0.28m">https://drive.google.com/file/d/1zXs-4b_K7G8Z09shP7MtmRHSFh1he8rP/view?usp=share_link</rar>
                 <rar slot="CPUZ" class="d02.devtek" id="2.1m">https://drive.google.com/file/d/12dfphQpcV2UixOTd_9O6JdzkQDZwfiiV/view?usp=share_link</rar>
                 <rar slot="Dead Pixel Tester" class="d02.devtek" id="0.27m">https://drive.google.com/file/d/18nQbBqxXZKTq67GNaORm12mfsj1nloEA/view?usp=share_link</rar>
                 <rar slot="Devlib Get Disk Serial" class="d02.devtek" id="0.59m">https://drive.google.com/file/d/1fsq1y-ybdEWhGeYiChXvsTSPeW5T8-io/view?usp=share_link</rar>
                 <rar slot="Drive Letter Changer" class="d02.devtek" id="0.54m">https://drive.google.com/file/d/19jnCBzpRb-_hTf1Y8netYicadBanSAjO/view?usp=share_link</rar>
-                <rar slot="FurMark" class="d02.devtek" id="12.2m">https://drive.google.com/file/d/1ZilyOKUZH2c2WDLyAE4cKV6cYJCRmjUS/view?usp=share_link</rar>
+                <rar slot="FurMark" class="d02.devtek" id="12.2m"></rar>
                 <rar slot="GPUZ" class="d02.devtek" id="7.4m">https://drive.google.com/file/d/1-NsjEa_dfTtN2S-NxoGE5f4yjPVP1jGt/view?usp=share_link</rar>
                 <rar slot="Hard Disk Serial Number Changer" class="d02.devtek" id="0.24m">https://drive.google.com/file/d/122dOazlD7eVZxC8mpLecVBjxoomrG2JE/view?usp=share_link</rar>
                 <rar slot="Hardware Monitor" class="d02.devtek" id="0.69m">https://drive.google.com/file/d/1kWz9ONi92_MujnJku7y1-Ah5-8DFx4cd/view?usp=share_link</rar>
@@ -234,7 +234,7 @@
                 <rar slot="IsMyLCDOK" class="d02.devtek" id="0.08m">https://drive.google.com/file/d/1x4lSz_bDibtoCbdZWkFG7B52balEOPPp/view?usp=share_link</rar>
                 <rar slot="Pass Mark Keyboard Test" class="d02.devtek" id="2.0m">https://drive.google.com/file/d/1LMJXd8GxMAcuUNlfCXnXuIuYnAL3IohW/view?usp=share_link</rar>
                 <rar slot="Speccy" class="d02.devtek" id="2.8m">https://drive.google.com/file/d/1p7PZwP0xqU6w_fCspaWTPDqZvINp38Uu/view?usp=share_link</rar>
-                <rar slot="Video Memory Stress Test" class="d02.devtek" id="0.4m">https://drive.google.com/file/d/1zj67T0U_AHsz80YR3R49MN4CxOXyVrmg/view?usp=share_link</rar>
+                <rar slot="Video Memory Stress Test" class="d02.devtek" id="0.4m"></rar>
             </dir>
             <dir id="diskboot" slot="Disk Boot">
                 <rar slot="AIO Boot" class="d01.devtek" id="40.5m">https://drive.google.com/file/d/1qwPYQcrGnboGLZSTDh37QeBJq6uvpaU6/view?usp=share_link</rar>
@@ -264,7 +264,7 @@
                 <rar slot="Microsoft Check Disk" class="d02.devtek" id="0.31m">https://drive.google.com/file/d/1FkcHrOBFLMXzSWAeE7C_iichzVZ2bJH9/view?usp=share_link</rar>
                 <rar slot="SSD Life Pro" class="d02.devtek" id="2.1m">https://drive.google.com/file/d/19c8DM2S3vSmYxSljQMJX3URS1_epMrsI/view?usp=share_link</rar>
                 <rar slot="Victory" class="d02.devtek" id="6.6m">https://drive.google.com/file/d/1dGIDUGdMram4z6Yh2a6xmIaxsGDUwPm5/view?usp=share_link</rar>
-                <rar slot="Western Digital" class="d02.devtek" id="0.46m">https://drive.google.com/file/d/1ibYh9qxxBDDEiTu1LSuXvessI5vM0Avt/view?usp=share_link</rar>
+                <rar slot="Western Digital" class="d02.devtek" id="0.46m"></rar>
                 <rar slot="Win Contig" class="d02.devtek" id="0.51m">https://drive.google.com/file/d/1TckSJL245UmIhCIwWnlPwE83JCpzRpY8/view?usp=share_link</rar>
             </dir>
             <dir id="diskeras" slot="Disk Eraser">
@@ -280,11 +280,11 @@
                 <rar slot="Ghost Explorer" class="d02.devtek" id="1.2m">https://drive.google.com/file/d/1YEHJa5imESD48hlpdRpsQzN8UdurvJ4M/view?usp=share_link</rar>
                 <rar slot="GImageX" class="d01.devtek" id="0.3m">https://drive.google.com/file/d/1CCDhbGhreaBS2n_n2173J-vUYjgXJkP2/view?usp=share_link</rar>
                 <rar slot="ImageW" class="d02.devtek" id="2.5m">https://drive.google.com/file/d/1Law8Z5nBjCXxzyA8wehwbWSv0HfsKL7y/view?usp=share_link</rar>
-                <rar slot="MSAct Backup" class="d02.devtek" id="0.71m">https://drive.google.com/file/d/1tbEO-C_E2oPUrhMYf6_44RuDPLO6iPky/view?usp=share_link</rar>
+                <rar slot="MSAct Backup" class="d02.devtek" id="0.71m"></rar>
                 <rar slot="Norton Ghost" class="d02.devtek" id="1.6m">https://drive.google.com/file/d/1bQLxlL2OL-IjTE2yXUlecwNqHVZohXW1/view?usp=share_link</rar>
-                <rar slot="Onekey Ghost 12" class="d02.devtek" id="4.6m">https://drive.google.com/file/d/1vZxXCCScY5Xxy00Vavrs0_NOBPLqvDu6/view?usp=share_link</rar>
+                <rar slot="Onekey Ghost 12" class="d02.devtek" id="4.6m"></rar>
                 <rar slot="Onekey Ghost" class="d01.devtek" id="4.0m">https://drive.google.com/file/d/1nhyIbzXr1iTTs_8sOTKB22JTf7x2KcOL/view?usp=share_link</rar>
-                <rar slot="Runtime Drive Image XML" class="d02.devtek" id="1.5m">https://drive.google.com/file/d/1uyLvWEp0rhqfb3egUarX54E-fbYuwbp5/view?usp=share_link</rar>
+                <rar slot="Runtime Drive Image XML" class="d02.devtek" id="1.5m"></rar>
                 <rar slot="TBI Mount" class="d02.devtek" id="0.8m">https://drive.google.com/file/d/16u1DbMD9yPQSDe288wabuGqErYmdZbQy/view?usp=share_link</rar>
                 <rar slot="TBI View" class="d02.devtek" id="1.1m">https://drive.google.com/file/d/17h-tY74GYqBQLOvMUnz8kFoCGdbcRz-R/view?usp=share_link</rar>
             </dir>
@@ -304,7 +304,7 @@
                 <rar slot="Paragon Alignment Tool" class="d02.devtek" id="41.7m">https://drive.google.com/file/d/1k_drPfbW58aqFnSjEiBioW-wLhfIwXMN/view?usp=share_link</rar>
                 <rar slot="Paragon Hard Disk Manager" class="d02.devtek" id="18.4m">https://drive.google.com/file/d/1X0INVgjrvRq352u9oE0FnLiThXp0BEVb/view?usp=share_link</rar>
                 <rar slot="Partition Wizard 10.2" class="d02.devtek" id="8.9m">https://drive.google.com/file/d/12srH1FpUt5iQjD5j0qxb7X_Zvvvt2DVr/view?usp=share_link</rar>
-                <rar slot="Partition Wizard 11.0" class="d02.devtek" id="46.0m">https://drive.google.com/file/d/14CY0ls-0vZJ6gEDp8gTRWKVAUxrQYLNb/view?usp=share_link</rar>
+                <rar slot="Partition Wizard 11.0" class="d02.devtek" id="46.0m"></rar>
             </dir>
             <dir id="driver" slot="Driver">
                 <rar slot="3DP Chip" class="d02.devtek" id="5.8m">https://drive.google.com/file/d/1WSyHvvgBMKcW8DRrHRQqIoAusWX4by9s/view?usp=share_link</rar>
@@ -315,25 +315,25 @@
             <dir id="network" slot="Network">
                 <rar slot="Aomei PXE Boot" class="d02.devtek" id="13.5m">https://drive.google.com/file/d/195grA4ZmDqoPxXcMc3jPgJPIkjnRCEfQ/view?usp=share_link</rar>
                 <rar slot="dos app network boot" class="d01.devtek" id="13m">https://drive.google.com/file/d/12c-UaVkKMp54T2_GSHRWCLQdfKx62qGJ/view?usp=share_link</rar>
-                <rar slot="Soft Perfect Network Scanner" class="d02.devtek" id="3.3m">https://drive.google.com/file/d/1yXKjqO-w-Y94mNzLLD44Q67QP0z3cpC8/view?usp=share_link</rar>
-                <rar slot="TFtpd32" class="d02.devtek" id="0.24m">https://drive.google.com/file/d/1f02sDSlrGN7oZd2m7Qfq8QXGdQt3B35c/view?usp=share_link</rar>
-                <rar slot="Ultra Surf" class="d02.devtek" id="3.9m">https://drive.google.com/file/d/1RGBdqU-RU4_FxU2xnrlvqKXZqfZsF5A2/view?usp=share_link</rar>
+                <rar slot="Soft Perfect Network Scanner" class="d02.devtek" id="3.3m"></rar>
+                <rar slot="TFtpd32" class="d02.devtek" id="0.24m"></rar>
+                <rar slot="Ultra Surf" class="d02.devtek" id="3.9m"></rar>
             </dir>
             <dir id="password" slot="Password">
                 <rar slot="Active Password Changer Pro" class="d02.devtek" id="5.1m">https://drive.google.com/file/d/1WeCH_3Iml5bZyv2IrXSrOGf4cTQURx8t/view?usp=share_link</rar>
                 <rar slot="Admin Password Resetter" class="d02.devtek" id="2.0m">https://drive.google.com/file/d/1CY53hmia5SVr8r2uGYWq2C5bhARjHTWM/view?usp=share_link</rar>
-                <rar slot="Anti Deep Freeze 0.1" class="d02.devtek" id="1.7m">https://drive.google.com/file/d/1iqZEVu6nT48arGkm8yp4oX3ycX143RQd/view?usp=share_link</rar>
-                <rar slot="Anti Deep Freeze 0.5" class="d02.devtek" id="0.85m">https://drive.google.com/file/d/1ngNyx0SqeJ2-lpqNjd-H_7Xwl45RP36w/view?usp=share_link</rar>
-                <rar slot="CMOS DeAnimator" class="d02.devtek" id="0.44m">https://drive.google.com/file/d/1LFwZ4yu8oNkV1dDr2ZOmTh9Mm3J9Hx4s/view?usp=share_link</rar>
+                <rar slot="Anti Deep Freeze 0.1" class="d02.devtek" id="1.7m"></rar>
+                <rar slot="Anti Deep Freeze 0.5" class="d02.devtek" id="0.85m"></rar>
+                <rar slot="CMOS DeAnimator" class="d02.devtek" id="0.44m"></rar>
                 <rar slot="Daossoft Windows Password Rescuer Personal" class="d02.devtek" id="1.2m">https://drive.google.com/file/d/1xVZxg4LOk4pj3qwfZkyx65sQX1pS2tI7/view?usp=share_link</rar>
                 <rar slot="Get Password" class="d02.devtek" id="0.24m">https://drive.google.com/file/d/13r9RG2ov9tP8BkhFLkT6wz84ByFW5xdT/view?usp=share_link</rar>
                 <rar slot="Active Password Changer Ultimate" class="d02.devtek" id="8.7m">https://drive.google.com/file/d/1hfzRwEYhtdo81-9JSXi95EUmPC5G2pkG/view?usp=share_link</rar>
-                <rar slot="NTPWedit" class="d02.devtek" id="0.22m">https://drive.google.com/file/d/1IaelwURo5v7WdZcupj5pVtwl5xNA8NNG/view?usp=share_link</rar>
+                <rar slot="NTPWedit" class="d02.devtek" id="0.22m"></rar>
                 <rar slot="Nuclear Coffee Recover Password" class="d02.devtek" id="5.5m">https://drive.google.com/file/d/1KHqxxvb3ywcyRuKae1-GP1RLJWcFiqlT/view?usp=share_link</rar>
-                <rar slot="PDF Password Remover" class="d02.devtek" id="7.2m">https://drive.google.com/file/d/14D_iGFMpb5l48Kx7huOb4pailG8RwRPF/view?usp=share_link</rar>
-                <rar slot="ProduKey" class="d02.devtek" id="0.32m">https://drive.google.com/file/d/1NPfcmKqDh6DsfMfhjnj9rhaT_YB9uPdO/view?usp=share_link</rar>
+                <rar slot="PDF Password Remover" class="d02.devtek" id="7.2m"></rar>
+                <rar slot="ProduKey" class="d02.devtek" id="0.32m"></rar>
                 <rar slot="Tenorshare Windows Password Recovery Tool Pro" class="d02.devtek" id="2.1m">https://drive.google.com/file/d/15B9U-mzZ91HM8qJtFNphDRwsHm7sUdXj/view?usp=share_link</rar>
-                <rar slot="Web Browser Pass View" class="d02.devtek" id="0.35m">https://drive.google.com/file/d/1Q1sSc0SlRbC4TVHu7bAZuu15W5FgdZiC/view?usp=share_link</rar>
+                <rar slot="Web Browser Pass View" class="d02.devtek" id="0.35m"></rar>
                 <rar slot="Windows Gate" class="d02.devtek" id="0.29m">https://drive.google.com/file/d/1v9dzJA__6gYFhYixRsYzzO6FYSXqbP-D/view?usp=share_link</rar>
                 <rar slot="Windows Login Unlocker" class="d02.devtek" id="0.41m">https://drive.google.com/file/d/12vfhdLNxb_x_JqwN2qZpctivV3ONtVBR/view?usp=share_link</rar>
             </dir>
@@ -357,7 +357,7 @@
                 <rar slot="Show Key Plus" class="d02.devtek" id="1.5m">https://drive.google.com/file/d/1YmBjCU5V__UcKZGwfon1OKUjp0K_m0ey/view?usp=share_link</rar>
                 <rar slot="Nuclear Coffee Recovery Keys" class="d02.devtek" id="6.7m">https://drive.google.com/file/d/1OYGYaqe9zxaIeJU5XtETcohp8D5myLP_/view?usp=share_link</rar>
                 <rar slot="Ontrack Easy Recovery" class="d02.devtek" id="91.0m">https://drive.google.com/file/d/11yP3IGUOYKVrG1fcl3GFzzt6Iq1wM5a5/view?usp=share_link</rar>
-                <rar slot="O&#38;O Disk Recovery" class="d02.devtek" id="9.3m">https://drive.google.com/file/d/1gnCzIcZJCpA7xeFBm8lZKG8jVVNSfgjE/view?usp=share_link</rar>
+                <rar slot="O&#38;O Disk Recovery" class="d02.devtek" id="9.3m"></rar>
                 <rar slot="Puran Data Recovery" class="d02.devtek" id="0.76m">https://drive.google.com/file/d/1eklMJc99AMCQ88_GOw8bHSV0STw415rJ/view?usp=share_link</rar>
                 <rar slot="Puran File Recovery" class="d02.devtek" id="1.4m">https://drive.google.com/file/d/1JuvFUBiomOglFSi2pbYWaUnyDYjUQsc6/view?usp=share_link</rar>
                 <rar slot="Recuva" class="d02.devtek" id="2.4m">https://drive.google.com/file/d/1so9OKSU2MoEsHqZZ4aM6hnJ4ulkfua8e/view?usp=share_link</rar>
@@ -369,7 +369,7 @@
                 <rar slot="Aero Admin" class="d02.devtek" id="1.2m">https://drive.google.com/file/d/1OR933FUD68sWhkZ26I_mDeAYynr5RMkl/view?usp=share_link</rar>
                 <rar slot="AnyDesk" class="d02.devtek" id="3.1m">https://drive.google.com/file/d/17t2DKy_l9_FBSxtUAjvCt7ebdSd40957/view?usp=share_link</rar>
                 <rar slot="DnsJumper" class="d02.devtek" id="0.83m">https://drive.google.com/file/d/1G9uApa0pH8HHf5GIOFit50fpgdvqGYd9/view?usp=share_link</rar>
-                <rar slot="Real VNC Server" class="d02.devtek" id="9.0m">https://drive.google.com/file/d/1p3t51aAw4FbiXrYXpsaHVzPozxHvwbMa/view?usp=share_link</rar>
+                <rar slot="Real VNC Server" class="d02.devtek" id="9.0m"></rar>
                 <rar slot="Real VNC Viewer" class="d02.devtek" id="2.7m">https://drive.google.com/file/d/1ISOqA4I2MNLzRQkI0auqNcRqCSQXNJ1e/view?usp=share_link</rar>
             </dir>
             <dir id="removabl" slot="Removable">
@@ -380,18 +380,18 @@
                 <dir id="files" slot="Files">
                     <rar slot="BKAV Show Hide File" class="d02.devtek" id="0.14m">https://drive.google.com/file/d/194maByW0SqbcEnE8zR4zqiO9yqd09OvL/view?usp=share_link</rar>
                     <rar slot="ExamDiff" class="d02.devtek" id="15.0m">https://drive.google.com/file/d/1dRSjoJjV9S0CMSpA3pWUoAEtmp_nkGFw/view?usp=share_link</rar>
-                    <rar slot="TeraCopy" class="d02.devtek" id="1.4m">https://drive.google.com/file/d/1LuJdW4O9eNaYS3ViGQ1QEXswL33L-wsA/view?usp=share_link</rar>
+                    <rar slot="TeraCopy" class="d02.devtek" id="1.4m"></rar>
                     <rar slot="WinMerge" class="d02.devtek" id="7.7m">https://drive.google.com/file/d/1Ct1Pqr-_tjUcw9wnnb7Z90Swqq7YJQ8l/view?usp=share_link</rar>
                     <rar slot="WordPad" class="d02.devtek" id="1.0m">https://drive.google.com/file/d/1dLWYdsVO1L-IrX-dfcgpJqj1XjO7zFzJ/view?usp=share_link</rar>
                 </dir>
                 <dir id="media" slot="Media">
-                    <rar slot="BurnAware" class="d02.devtek" id="10.1m">https://drive.google.com/file/d/11VvN9H9PVArMR2kOAsfw3NqgFm9fSbb6/view?usp=share_link</rar>
+                    <rar slot="BurnAware" class="d02.devtek" id="10.1m"></rar>
                     <rar slot="CDBurnerXP" class="d02.devtek" id="4.2m">https://drive.google.com/file/d/1dG1Ozl6Kp2uSV8F1RKxkHV6u5P7gyHKr/view?usp=share_link</rar>
                     <rar slot="Daum POT Player" class="d02.devtek" id="33.4m">https://drive.google.com/file/d/1UfRQ2bfqa8pd0sKuEeIukNyZdg8D2R6X/view?usp=share_link</rar>
-                    <rar slot="FastStone Capture" class="d02.devtek" id="2.1m">https://drive.google.com/file/d/1prJUcvc5FLD3jSasLonsuaqfkHtjXdEX/view?usp=share_link</rar>
+                    <rar slot="FastStone Capture" class="d02.devtek" id="2.1m"></rar>
                     <rar slot="FastStone Image Viewer" class="d02.devtek" id="7.1m">https://drive.google.com/file/d/1gICrZoHbMiSZ9JTUXKcxe0CXXSsY5lDq/view?usp=share_link</rar>
                     <rar slot="Free ISO Burner" class="d02.devtek" id="0.35m">https://drive.google.com/file/d/1X7mV3ozR727X6kg-wxCCUkNu0x47Aghq/view?usp=share_link</rar>
-                    <rar slot="Irfan View" class="d02.devtek" id="1.5m">https://drive.google.com/file/d/1fGKX9FICGTbZDCVGtZ5dZm8gGNCKJwpQ/view?usp=share_link</rar>
+                    <rar slot="Irfan View" class="d02.devtek" id="1.5m"></rar>
                     <rar slot="Smart Ripper" class="d02.devtek" id="0.83m">https://drive.google.com/file/d/13H1d_1VchvyOLFX_w_18KDoQ0mGHQ9rs/view?usp=share_link</rar>
                 </dir>
                 <dir id="registry" slot="Registry">
@@ -400,7 +400,7 @@
                     <rar slot="RegShot" class="d02.devtek" id="0.46m">https://drive.google.com/file/d/1c3xcWssnAHA4Ij7zIo8pjVPzqs5elW5y/view?usp=share_link</rar>
                     <rar slot="Resource Hacker" class="d02.devtek" id="1.9m">https://drive.google.com/file/d/1OHExxInR2LBJ4DbbHrjT8bRfevIQS4sv/view?usp=share_link</rar>
                     <rar slot="Revo Uninstaller" class="d02.devtek" id="23.0m">https://drive.google.com/file/d/1HNRDG97tJ_PqtdXWgYak5K5lQmQ8quwj/view?usp=share_link</rar>
-                    <rar slot="Total Uninstall" class="d02.devtek" id="13.7m">https://drive.google.com/file/d/1kDF55FOvnHDMIBJ18X8HNJUSeRjkc598/view?usp=share_link</rar>
+                    <rar slot="Total Uninstall" class="d02.devtek" id="13.7m"></rar>
                 </dir>
                 <dir id="support" slot="Support">
                     <rar slot="Active BCD Editor" class="d02.devtek" id="5.5m">https://drive.google.com/file/d/1qjEaW4e1o2lXG-RSPYhlI-MkaBI9dc-I/view?usp=share_link</rar>
@@ -412,13 +412,13 @@
                     <rar slot="HxD HexEditor" class="d02.devtek" id="1.9m">https://drive.google.com/file/d/1WltygGOJ83gzdr_Z7ROQnOef7mP46Kym/view?usp=share_link</rar>
                     <rar slot="Mouse Emulator" class="d02.devtek" id="0.54m">https://drive.google.com/file/d/1XBTGZVbUMSIMLLlwRz1rVFfPDZ0GCr0n/view?usp=share_link</rar>
                     <rar slot="On Screen Keyboard" class="d02.devtek" id="0.23m">https://drive.google.com/file/d/17H9yMIOcJlyPCucJ2BhQYlPVYgd0OBZ7/view?usp=share_link</rar>
-                    <rar slot="Power Tool" class="d02.devtek" id="2.2m">https://drive.google.com/file/d/1UQgr6H55lrl0Ts-VV3FglG282CRPKi5S/view?usp=share_link</rar>
-                    <rar slot="QEmu Simple Boot" class="d02.devtek" id="3.8m">https://drive.google.com/file/d/1ur4cT9TfmpZjF_coJ_C9IBqjpQXtv3cY/view?usp=share_link</rar>
-                    <rar slot="Setup OS" class="d02.devtek" id="5.3m">https://drive.google.com/file/d/1n-88_6TseXVdN1IYQ-Tn45qZ0nH1wALm/view?usp=share_link</rar>
+                    <rar slot="Power Tool" class="d02.devtek" id="2.2m"></rar>
+                    <rar slot="QEmu Simple Boot" class="d02.devtek" id="3.8m"></rar>
+                    <rar slot="Setup OS" class="d02.devtek" id="5.3m"></rar>
                     <rar slot="Shutter Lite" class="d02.devtek" id="2.5m">https://drive.google.com/file/d/1lz0OXwEzMMctHOa8vJcY4MAFUQuZa6sK/view?usp=share_link</rar>
                     <rar slot="SxSSFX" class="d02.devtek" id="3.1m">https://drive.google.com/file/d/1hwChFBnxI6l46HD-BzngAR6nC7WSS8y0/view?usp=share_link</rar>
                     <rar slot="The Ultimate PID Checker" class="d02.devtek" id="3.0m">https://drive.google.com/file/d/1k0DzNZh87zHBa3pGWldA8y-w8Sc70Mco/view?usp=share_link</rar>
-                    <rar slot="Total Commander" class="d02.devtek" id="7.2m">https://drive.google.com/file/d/1CWRE0NNwS8q9zs4zaLEt_p4IxdfQGO3u/view?usp=share_link</rar>
+                    <rar slot="Total Commander" class="d02.devtek" id="7.2m"></rar>
                     <rar slot="WinNT Setup" class="d02.devtek" id="2.2m">https://drive.google.com/file/d/1y1C7ON6kECJ_wiyLxyuxD6X1od6Yv48n/view?usp=share_link</rar>
                     <rar slot="qres" class="d01.devtek" id="0.4m">https://drive.google.com/file/d/1hDPGSi983ubW1b07XYT8f0bU0dqR8Eby/view?usp=share_link</rar>
                     <rar slot="Shortcut CMD" class="d01.devtek" id="0.1m">https://drive.google.com/file/d/1paIkj7MhhzRPTZ_TErYDN2aOh_PVk6-h/view?usp=share_link</rar>
