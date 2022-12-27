@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<root>
-    <dir id="compdriv" slot="Computer Drivers">
-    </dir>
-    <dir id="softback" slot="Software Backup">
-    </dir>
-    <dir id="techdeve" slot="Technical and Development Tools">
-    </dir>
-</root>
