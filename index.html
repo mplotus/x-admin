@@ -1,30 +1,19 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Administrator Page</title>
+        <title>Administrator Logging In ...</title>
         <meta name='viewport' content='width=device-width, initial-scale=1.0'>
         <script type='text/javascript' src='./$code/script.js'></script>
         <link rel='stylesheet' href='./$code/style.css'>
     </head>
-    <body onload='page_load()'>
-        <div id='dv_bg'>
-            <div class='bg_color'></div>
-            <div class='bg_color'></div>
-            <div class='bg_color'></div>
-            <div class='bg_color'></div>
-            <div class='bg_color'></div>
-            <div class='bg_color'></div>
-        </div>
-        <div class='circles'>
-            <div class='circle' style='--i:1.6;'></div>
-            <div class='circle' style='--i:1.7;'></div>
-            <div class='circle' style='--i:1.2;'></div>
-        </div>
-        <div class='login_form'>
-            <h2>Sign in administrator</h2>
-            <p><input type='password' id='tx_pw' placeholder='Enter administrator password'></p>
-            <p><button id='bt_pw' onclick='pass_signin()'>SIGN IN</button></p>
-            <p>Forgot administrator password? <span id='fg_pw' onclick='forgot_pw()'>Click here</span></p>
+    <body>
+        <img id='background' src='./$imgs/wall.svg'>
+        <div id='signindlg'>
+            <p id='dlgtitle'>Login as Administrator</p>
+            <div id='taccount'>Account: administrator</div>
+            <p><input type='password' id='tpass' placeholder='SOS binary morse'></p>
+            <div id='lpass'>Password:</div>
+            <button id='btlogin' onclick='login_click()'>LOG IN</button>
         </div>
     </body>
 </html>
